@@ -221,33 +221,6 @@ any error or unreadable page ─────────────────
 | `frontend/src/` | The page |
 | `backend/tests/` | 85 tests |
 
-### 06 · Communication
-
-This README follows the judging criteria. For a two-minute demo:
-
-1. Open the page and upload a deed photo, or pick a sample.
-2. Watch the six stages fill in.
-3. Drag the enhancement slider.
-4. Show the tilted Kraken outlines.
-5. In the review, click "المصدر: سطر …" to jump to the line, and fix one flagged field.
-6. Show the digital copy updating.
-7. Approve.
-
----
-
-## Run it
-
-```bash
-make install            # app environment, frontend packages, and the Kraken environment
-make models             # Real-ESRGAN weights (~72 MB) and the embedding model (~1.1 GB)
-cp .env.example .env    # add GEMINI_API_KEY (free from Google AI Studio) and ANTHROPIC_API_KEY
-make build              # build the page once
-.venv/bin/uvicorn backend.app.main:app --port 8000
-```
-
-Open http://localhost:8000. `make test` runs the 85 tests.
-
-Main settings in `.env` (all have defaults):
 
 | Setting | Default | Meaning |
 |---|---|---|
