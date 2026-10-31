@@ -274,7 +274,7 @@ The three synthetic samples in `samples/` exercise this branch: one compliant, o
 
 ## Limitations and next steps
 
-- **Evaluation set**: field accuracy is measured on one deed with four verified fields. The next step is a labelled set of 50 or more deeds, with every field typed by a ministry clerk, to report field-level accuracy and character error rate.
+- **Evaluation set**: field accuracy is measured on two deeds with four verified fields. The next step is a labelled set of 50 or more deeds, with every field typed by a ministry clerk, to report field-level accuracy and character error rate.
 - **Self-reported confidence**: the reader's legibility flag decides which fields are flagged, and Gemma showed it can be confidently wrong. A second, independent check (for example a second reader on flagged pages) would make flagging more reliable.
 - **Judges' names and signatures** are the hardest lines. All readers got them at most partly right.
 - **Margin notes**: dense notes produce many small outlines, and their numbers crowd the strip on the right.
