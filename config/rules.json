@@ -1,0 +1,114 @@
+{
+  "_note": "Illustrative demo policy only. Not legal advice. The organization's legal team must define the real rules.",
+  "version": "0.1-demo",
+  "decision_thresholds": {
+    "max_risk_score_for_auto_approve": 25,
+    "min_block_confidence_for_auto_approve": 0.85,
+    "min_mean_confidence_for_auto_approve": 0.92,
+    "block_highlight_below": 0.85,
+    "critical_finding_forces_escalation": true
+  },
+  "scoring": {
+    "weights": { "critical": 30, "high": 15, "medium": 8, "low": 3 },
+    "low_confidence_multiplier": 0.5,
+    "low_confidence_below": 0.6
+  },
+  "rules": [
+    {
+      "id": "PARTY-01",
+      "clause_type": "parties",
+      "title_ar": "تحديد الأطراف",
+      "check": "Each party is identified by full legal name and a national ID or commercial registration number.",
+      "severity": "high",
+      "required": true
+    },
+    {
+      "id": "TERM-01",
+      "clause_type": "term",
+      "title_ar": "مدة العقد محددة",
+      "check": "The contract states a clear start date and either an end date or a fixed duration. Automatic renewal, if any, requires written notice to opt out of at least 30 days.",
+      "severity": "medium",
+      "required": true
+    },
+    {
+      "id": "PAY-01",
+      "clause_type": "payment",
+      "title_ar": "مدة السداد",
+      "check": "Payment is due within 60 days or less of a valid invoice. Amounts are stated in Saudi Riyals and specify whether VAT is included.",
+      "severity": "high",
+      "required": true
+    },
+    {
+      "id": "TERMN-01",
+      "clause_type": "termination",
+      "title_ar": "حق الإنهاء المتوازن",
+      "check": "Both parties have a termination right for material breach after written notice and a cure period of at least 15 days. Termination for convenience, if present, is not available to only one party.",
+      "severity": "high",
+      "required": true
+    },
+    {
+      "id": "LIAB-01",
+      "clause_type": "liability",
+      "title_ar": "حد أقصى للمسؤولية",
+      "check": "Total liability is capped (for example at the total contract value), with exclusions only for fraud, gross negligence, or willful misconduct. Unlimited liability on one party fails.",
+      "severity": "critical",
+      "required": true
+    },
+    {
+      "id": "CONF-01",
+      "clause_type": "confidentiality",
+      "title_ar": "السرية",
+      "check": "Confidentiality obligations exist, apply to both parties, and survive termination for a stated period.",
+      "severity": "medium",
+      "required": true
+    },
+    {
+      "id": "DATA-01",
+      "clause_type": "data_protection",
+      "title_ar": "حماية البيانات الشخصية",
+      "check": "If personal data is processed, the contract requires compliance with the Saudi Personal Data Protection Law (نظام حماية البيانات الشخصية) and restricts transfer of data outside the Kingdom except as the law allows.",
+      "severity": "critical",
+      "required": true
+    },
+    {
+      "id": "LAW-01",
+      "clause_type": "governing_law",
+      "title_ar": "النظام الواجب التطبيق",
+      "check": "The contract is governed by the laws and regulations of the Kingdom of Saudi Arabia. Any foreign governing law fails.",
+      "severity": "critical",
+      "required": true
+    },
+    {
+      "id": "DISP-01",
+      "clause_type": "disputes",
+      "title_ar": "تسوية المنازعات",
+      "check": "Disputes go to competent Saudi courts or to arbitration seated in Saudi Arabia (for example the Saudi Center for Commercial Arbitration), optionally after an amicable settlement period.",
+      "severity": "high",
+      "required": true
+    },
+    {
+      "id": "PEN-01",
+      "clause_type": "penalties",
+      "title_ar": "سقف غرامات التأخير",
+      "check": "Delay penalties, if present, are capped at no more than 10 percent of the contract value.",
+      "severity": "medium",
+      "required": false
+    },
+    {
+      "id": "FM-01",
+      "clause_type": "force_majeure",
+      "title_ar": "القوة القاهرة",
+      "check": "A force majeure clause exists and applies to both parties.",
+      "severity": "low",
+      "required": false
+    },
+    {
+      "id": "ASSIGN-01",
+      "clause_type": "assignment",
+      "title_ar": "التنازل والتعاقد من الباطن",
+      "check": "Neither party may assign or subcontract without the other party's prior written consent.",
+      "severity": "low",
+      "required": false
+    }
+  ]
+}

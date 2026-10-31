@@ -1,0 +1,336 @@
+{
+ "sha256": "b96268e5d85c966d01a433021ae796106e86dea71f8fd5ba2888b099b3827ef6",
+ "file": "clean_service_agreement.pdf",
+ "pages": [
+  {
+   "title": "عقد تقديم خدمات تقنية",
+   "parties": [
+    {
+     "role_ar": "الطرف الأول",
+     "name": "شركة الأفق الرقمي لتقنية المعلومات",
+     "id_number": "سجل تجاري رقم ١٠١٠٩٨٧٦٥٤"
+    },
+    {
+     "role_ar": "الطرف الثاني",
+     "name": "شركة النخبة للخدمات اللوجستية",
+     "id_number": "سجل تجاري رقم ٤٠٣٠١٢٣٤٥٦"
+    }
+   ],
+   "key_fields": [],
+   "blocks": [
+    {
+     "id": "p1_b1",
+     "kind": "title",
+     "number_raw": null,
+     "heading": null,
+     "text": "عقد تقديم خدمات تقنية",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.982,
+     "bbox": [
+      0.1008,
+      0.0713,
+      0.8992,
+      0.1021
+     ]
+    },
+    {
+     "id": "p1_b2",
+     "kind": "preamble",
+     "number_raw": null,
+     "heading": null,
+     "text": "حُرر هذا العقد في مدينة الرياض بتاريخ ١٢/٠٧/١٤٤٧هـ الموافق ٠١/٠١/٢٠٢٦م بين كل من:",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.961,
+     "bbox": [
+      0.1008,
+      0.1164,
+      0.8992,
+      0.143
+     ]
+    },
+    {
+     "id": "p1_b3",
+     "kind": "preamble",
+     "number_raw": null,
+     "heading": null,
+     "text": "الطرف الأول: شركة الأفق الرقمي لتقنية المعلومات، سجل تجاري رقم ١٠١٠٩٨٧٦٥٤، ومقرها الرياض، ويمثلها في التوقيع على هذا العقد مديرها العام.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.97,
+     "bbox": [
+      0.1008,
+      0.1572,
+      0.8992,
+      0.2081
+     ]
+    },
+    {
+     "id": "p1_b4",
+     "kind": "preamble",
+     "number_raw": null,
+     "heading": null,
+     "text": "الطرف الثاني: شركة النخبة للخدمات اللوجستية، سجل تجاري رقم ٤٠٣٠١٢٣٤٥٦، ومقرها جدة، ويمثلها في التوقيع على هذا العقد رئيسها التنفيذي.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.968,
+     "bbox": [
+      0.1008,
+      0.2223,
+      0.8992,
+      0.2732
+     ]
+    },
+    {
+     "id": "p1_b5",
+     "kind": "clause",
+     "number_raw": "البند الأول",
+     "heading": "موضوع العقد",
+     "text": "يلتزم الطرف الأول بتقديم خدمات الدعم الفني وصيانة الأنظمة التقنية للطرف الثاني وفق نطاق العمل المرفق بهذا العقد، والذي يعد جزءاً لا يتجزأ منه.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.986,
+     "bbox": [
+      0.1008,
+      0.2874,
+      0.8992,
+      0.3625
+     ]
+    },
+    {
+     "id": "p1_b6",
+     "kind": "clause",
+     "number_raw": "البند الثاني",
+     "heading": "مدة العقد",
+     "text": "مدة هذا العقد اثنا عشر شهراً تبدأ من تاريخ ٠١/٠١/٢٠٢٦م وتنتهي في ٣١/١٢/٢٠٢٦م، ويتجدد لمدة مماثلة ما لم يخطر أحد الطرفين الآخر كتابياً برغبته في عدم التجديد قبل ستين يوماً على الأقل من تاريخ انتهائه.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.984,
+     "bbox": [
+      0.1008,
+      0.3767,
+      0.8992,
+      0.4518
+     ]
+    },
+    {
+     "id": "p1_b7",
+     "kind": "clause",
+     "number_raw": "البند الثالث",
+     "heading": "المقابل المالي وطريقة الدفع",
+     "text": "يدفع الطرف الثاني للطرف الأول مبلغاً إجمالياً قدره ٢٤٠٬٠٠٠ ريال سعودي شاملاً ضريبة القيمة المضافة، يسدد على دفعات شهرية متساوية خلال ثلاثين يوماً من تاريخ استلام فاتورة ضريبية صحيحة.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.991,
+     "bbox": [
+      0.1008,
+      0.466,
+      0.8992,
+      0.5411
+     ]
+    },
+    {
+     "id": "p1_b8",
+     "kind": "clause",
+     "number_raw": "البند الرابع",
+     "heading": "إنهاء العقد",
+     "text": "يحق لأي من الطرفين إنهاء هذا العقد في حال إخلال الطرف الآخر إخلالاً جوهرياً بأي من التزاماته، وذلك بعد إخطاره كتابياً ومنحه مهلة لا تقل عن ثلاثين يوماً لتصحيح الإخلال دون أن يقوم بذلك.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.963,
+     "bbox": [
+      0.1008,
+      0.5553,
+      0.8992,
+      0.6304
+     ]
+    },
+    {
+     "id": "p1_b9",
+     "kind": "clause",
+     "number_raw": "البند الخامس",
+     "heading": "المسؤولية",
+     "text": "لا تتجاوز المسؤولية الإجمالية لأي من الطرفين بموجب هذا العقد القيمة الإجمالية للعقد، ولا يسري هذا الحد في حالات الغش أو الإهمال الجسيم أو سوء السلوك المتعمد.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.975,
+     "bbox": [
+      0.1008,
+      0.6447,
+      0.8992,
+      0.7197
+     ]
+    },
+    {
+     "id": "p1_b10",
+     "kind": "clause",
+     "number_raw": "البند السادس",
+     "heading": "السرية",
+     "text": "يلتزم كل طرف بالمحافظة على سرية المعلومات التي يطلع عليها بسبب تنفيذ هذا العقد وعدم الإفصاح عنها للغير، ويستمر هذا الالتزام لمدة ثلاث سنوات بعد انتهاء العقد أو إنهائه.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.961,
+     "bbox": [
+      0.1008,
+      0.734,
+      0.8992,
+      0.809
+     ]
+    },
+    {
+     "id": "p1_b11",
+     "kind": "clause",
+     "number_raw": "البند السابع",
+     "heading": "حماية البيانات الشخصية",
+     "text": "يلتزم الطرفان بأحكام نظام حماية البيانات الشخصية ولائحته التنفيذية عند معالجة أي بيانات شخصية، ولا يجوز نقل البيانات الشخصية خارج المملكة العربية السعودية إلا في الحدود التي يسمح بها النظام.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.968,
+     "bbox": [
+      0.1008,
+      0.8233,
+      0.8992,
+      0.8983
+     ]
+    }
+   ],
+   "tables": [],
+   "dates": [
+    {
+     "raw": "١٢/٠٧/١٤٤٧هـ",
+     "calendar": "hijri",
+     "block_id": "p1_b2"
+    },
+    {
+     "raw": "٠١/٠١/٢٠٢٦م",
+     "calendar": "gregorian",
+     "block_id": "p1_b2"
+    },
+    {
+     "raw": "٠١/٠١/٢٠٢٦م",
+     "calendar": "gregorian",
+     "block_id": "p1_b6"
+    },
+    {
+     "raw": "٣١/١٢/٢٠٢٦م",
+     "calendar": "gregorian",
+     "block_id": "p1_b6"
+    }
+   ],
+   "stamps": [],
+   "page_header_footer": [
+    "صفحة ١"
+   ]
+  },
+  {
+   "title": null,
+   "parties": [],
+   "key_fields": [],
+   "blocks": [
+    {
+     "id": "p2_b1",
+     "kind": "clause",
+     "number_raw": "البند الثامن",
+     "heading": "القوة القاهرة",
+     "text": "لا يعد أي من الطرفين مخلاً بالتزاماته إذا كان التأخير أو عدم التنفيذ ناتجاً عن قوة قاهرة، على أن يخطر الطرف المتأثر الطرف الآخر كتابياً خلال سبعة أيام من وقوعها.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.978,
+     "bbox": [
+      0.1008,
+      0.0713,
+      0.8992,
+      0.1463
+     ]
+    },
+    {
+     "id": "p2_b2",
+     "kind": "clause",
+     "number_raw": "البند التاسع",
+     "heading": "التنازل والتعاقد من الباطن",
+     "text": "لا يجوز لأي من الطرفين التنازل عن هذا العقد أو التعاقد من الباطن لتنفيذ أي جزء منه إلا بموافقة كتابية مسبقة من الطرف الآخر.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.961,
+     "bbox": [
+      0.1008,
+      0.1606,
+      0.8992,
+      0.2356
+     ]
+    },
+    {
+     "id": "p2_b3",
+     "kind": "clause",
+     "number_raw": "البند العاشر",
+     "heading": "غرامات التأخير",
+     "text": "في حال تأخر الطرف الأول في تنفيذ التزاماته تفرض عليه غرامة قدرها نصف في المائة من قيمة العقد عن كل أسبوع تأخير، وبحد أقصى عشرة في المائة من قيمة العقد.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.967,
+     "bbox": [
+      0.1008,
+      0.2499,
+      0.8992,
+      0.3249
+     ]
+    },
+    {
+     "id": "p2_b4",
+     "kind": "clause",
+     "number_raw": "البند الحادي عشر",
+     "heading": "النظام الواجب التطبيق",
+     "text": "يخضع هذا العقد ويفسر وفقاً للأنظمة المعمول بها في المملكة العربية السعودية.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.983,
+     "bbox": [
+      0.1008,
+      0.3392,
+      0.8992,
+      0.39
+     ]
+    },
+    {
+     "id": "p2_b5",
+     "kind": "clause",
+     "number_raw": "البند الثاني عشر",
+     "heading": "تسوية المنازعات",
+     "text": "يسعى الطرفان إلى تسوية أي نزاع ينشأ عن هذا العقد ودياً خلال ثلاثين يوماً، فإن تعذر ذلك يحال النزاع إلى المحاكم المختصة في مدينة الرياض.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.979,
+     "bbox": [
+      0.1008,
+      0.4043,
+      0.8992,
+      0.4793
+     ]
+    },
+    {
+     "id": "p2_b6",
+     "kind": "signature_area",
+     "number_raw": null,
+     "heading": null,
+     "text": "الطرف الأول: شركة الأفق الرقمي لتقنية المعلومات          الطرف الثاني: شركة النخبة للخدمات اللوجستية\nالتوقيع: ....................          التوقيع: ....................",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.968,
+     "bbox": [
+      0.1008,
+      0.4936,
+      0.8992,
+      0.5444
+     ]
+    }
+   ],
+   "tables": [],
+   "dates": [],
+   "stamps": [],
+   "page_header_footer": [
+    "صفحة ٢"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,257 @@
+{
+ "sha256": "406293fbc189f5cd02155216bcb265131abb9527ed462b06905ebd4496903dfa",
+ "file": "risky_supply_contract.pdf",
+ "pages": [
+  {
+   "title": "عقد توريد معدات",
+   "parties": [
+    {
+     "role_ar": "الطرف الأول",
+     "name": "مؤسسة الواحة للتجارة",
+     "id_number": "سجل تجاري رقم ١٠١٠٥٥٥١٢٣"
+    },
+    {
+     "role_ar": "الطرف الثاني",
+     "name": "شركة غلوبال إكويبمنت المحدودة",
+     "id_number": null
+    }
+   ],
+   "key_fields": [],
+   "blocks": [
+    {
+     "id": "p1_b1",
+     "kind": "title",
+     "number_raw": null,
+     "heading": null,
+     "text": "عقد توريد معدات",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.981,
+     "bbox": [
+      0.1008,
+      0.0713,
+      0.8992,
+      0.1021
+     ]
+    },
+    {
+     "id": "p1_b2",
+     "kind": "preamble",
+     "number_raw": null,
+     "heading": null,
+     "text": "أبرم هذا العقد بتاريخ ١٥/٠٣/٢٠٢٦م بين مؤسسة الواحة للتجارة، سجل تجاري رقم ١٠١٠٥٥٥١٢٣، ويشار إليها بالطرف الأول (المشتري)، وشركة غلوبال إكويبمنت المحدودة، ويشار إليها بالطرف الثاني (المورد).",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.988,
+     "bbox": [
+      0.1008,
+      0.1164,
+      0.8992,
+      0.1672
+     ]
+    },
+    {
+     "id": "p1_b3",
+     "kind": "clause",
+     "number_raw": "المادة (١)",
+     "heading": "موضوع العقد",
+     "text": "يلتزم الطرف الثاني بتوريد معدات التبريد الصناعية الموضحة في جدول الكميات المرفق إلى مستودعات الطرف الأول في مدينة الدمام.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.96,
+     "bbox": [
+      0.1008,
+      0.1815,
+      0.8992,
+      0.2565
+     ]
+    },
+    {
+     "id": "p1_b4",
+     "kind": "clause",
+     "number_raw": "المادة (٢)",
+     "heading": "مدة العقد",
+     "text": "يسري هذا العقد من تاريخ توقيعه ويتجدد تلقائياً سنة بعد سنة ما لم يخطر أحد الطرفين الآخر قبل عشرة أيام من تاريخ التجديد.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.988,
+     "bbox": [
+      0.1008,
+      0.2708,
+      0.8992,
+      0.3458
+     ]
+    },
+    {
+     "id": "p1_b5",
+     "kind": "clause",
+     "number_raw": "المادة (٣)",
+     "heading": "قيمة العقد والدفع",
+     "text": "قيمة العقد ١٬٨٥٠٬٠٠٠ ريال، ويلتزم الطرف الأول بسداد كل فاتورة خلال مائة وعشرين يوماً من تاريخ استلامها.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.984,
+     "bbox": [
+      0.1008,
+      0.3601,
+      0.8992,
+      0.4109
+     ]
+    },
+    {
+     "id": "p1_b6",
+     "kind": "clause",
+     "number_raw": "المادة (٤)",
+     "heading": "الإنهاء",
+     "text": "يحق للطرف الثاني إنهاء هذا العقد في أي وقت ودون إبداء أسباب بموجب إشعار كتابي مدته خمسة عشر يوماً، ولا يحق للطرف الأول إنهاء العقد إلا بحكم قضائي نهائي.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.972,
+     "bbox": [
+      0.1008,
+      0.4252,
+      0.8992,
+      0.5002
+     ]
+    },
+    {
+     "id": "p1_b7",
+     "kind": "clause",
+     "number_raw": "المادة (٥)",
+     "heading": "المسؤولية والتعويض",
+     "text": "يتحمل الطرف الأول المسؤولية الكاملة وغير المحدودة عن أي أضرار مباشرة أو غير مباشرة تلحق بالطرف الثاني أو بالغير أثناء تنفيذ هذا العقد.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.965,
+     "bbox": [
+      0.1008,
+      0.5145,
+      0.8992,
+      0.5895
+     ]
+    },
+    {
+     "id": "p1_b8",
+     "kind": "clause",
+     "number_raw": "المادة (٦)",
+     "heading": "السرية",
+     "text": "يلتزم الطرف الأول بالمحافظة على سرية الأسعار والمواصفات الفنية التي يقدمها الطرف الثاني.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.994,
+     "bbox": [
+      0.1008,
+      0.6038,
+      0.8992,
+      0.6546
+     ]
+    },
+    {
+     "id": "p1_b9",
+     "kind": "clause",
+     "number_raw": "المادة (٧)",
+     "heading": "غرامات التأخير",
+     "text": "في حال تأخر الطرف الأول في السداد تستحق عليه غرامة قدرها اثنان في المائة من قيمة الفاتورة عن كل أسبوع تأخير دون حد أقصى.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.972,
+     "bbox": [
+      0.1008,
+      0.6689,
+      0.8992,
+      0.7439
+     ]
+    },
+    {
+     "id": "p1_b10",
+     "kind": "clause",
+     "number_raw": "المادة (٨)",
+     "heading": "القانون الواجب التطبيق",
+     "text": "يخضع هذا العقد ويفسر وفقاً لقوانين إنجلترا وويلز.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.963,
+     "bbox": [
+      0.1008,
+      0.7582,
+      0.8992,
+      0.809
+     ]
+    },
+    {
+     "id": "p1_b11",
+     "kind": "clause",
+     "number_raw": "المادة (٩)",
+     "heading": "تسوية المنازعات",
+     "text": "تحال جميع المنازعات الناشئة عن هذا العقد إلى التحكيم في مدينة لندن وفقاً لقواعد محكمة لندن للتحكيم الدولي.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.963,
+     "bbox": [
+      0.1008,
+      0.8233,
+      0.8992,
+      0.8983
+     ]
+    }
+   ],
+   "tables": [],
+   "dates": [
+    {
+     "raw": "١٥/٠٣/٢٠٢٦م",
+     "calendar": "gregorian",
+     "block_id": "p1_b2"
+    }
+   ],
+   "stamps": [],
+   "page_header_footer": [
+    "صفحة ١"
+   ]
+  },
+  {
+   "title": null,
+   "parties": [],
+   "key_fields": [],
+   "blocks": [
+    {
+     "id": "p2_b1",
+     "kind": "clause",
+     "number_raw": "المادة (١٠)",
+     "heading": "التنازل",
+     "text": "يحق للطرف الثاني التنازل عن هذا العقد أو التعاقد من الباطن دون الحاجة إلى موافقة الطرف الأول.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.99,
+     "bbox": [
+      0.1008,
+      0.0713,
+      0.8992,
+      0.1221
+     ]
+    },
+    {
+     "id": "p2_b2",
+     "kind": "signature_area",
+     "number_raw": null,
+     "heading": null,
+     "text": "عن الطرف الأول: ....................          عن الطرف الثاني: ....................",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.981,
+     "bbox": [
+      0.1008,
+      0.1363,
+      0.8992,
+      0.1629
+     ]
+    }
+   ],
+   "tables": [],
+   "dates": [],
+   "stamps": [],
+   "page_header_footer": [
+    "صفحة ٢"
+   ]
+  }
+ ]
+}

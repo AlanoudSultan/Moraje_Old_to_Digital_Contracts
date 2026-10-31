@@ -1,0 +1,24 @@
+/* From the user's Electronic Deed Template (نموذج الصك). */
+body{margin:0}
+a{color:#0B5A3C}a:hover{color:#063D29}
+.sec{display:flex;flex-direction:column}
+.sec>h2{margin:0;padding:8px 14px;background:var(--accent);color:#FFFFFF;font-size:15px;font-weight:600;border-radius:6px 6px 0 0;display:flex;justify-content:space-between;align-items:center}
+.sec>h2 small{font-size:11px;font-weight:400;opacity:.9}
+.box{border:1px solid #C9D3CF;border-top:0}
+.kv{display:grid;grid-template-columns:1fr 1fr}
+.kv>div{display:grid;grid-template-columns:150px 1fr;border-bottom:1px solid #C9D3CF}
+.kv>div:nth-child(odd){border-left:1px solid #C9D3CF}
+.kv>div.full{grid-column:1 / -1;border-left:0}
+.kv>div.last{border-bottom:0}
+.l{padding:8px 12px;background:var(--tint);font-weight:600}
+.v{padding:8px 12px;color:#3D4844}
+.tb{display:grid}
+.tb>span{padding:8px 10px;border-bottom:1px solid #C9D3CF;border-left:1px solid #C9D3CF}
+.tb>span.h{background:var(--tint);font-weight:600}
+.para{padding:10px 14px;border-bottom:1px solid #C9D3CF;display:flex;flex-direction:column;gap:4px}
+.para .t{font-weight:600;color:var(--accent);font-size:12px}
+.para .c{color:#3D4844;line-height:1.9}
+.sub{border:1px solid #C9D3CF;border-radius:6px;padding:12px 14px;display:flex;flex-direction:column;gap:6px}
+.sub h3{margin:0;font-size:14px;color:var(--accent)}
+.sub ul{margin:0;padding-inline-start:18px;color:#3D4844;line-height:1.9}
+.dash{border:1.5px dashed #9AA8A2;border-radius:6px;display:flex;align-items:center;justify-content:center;color:#5B6762;font-size:12px;text-align:center}

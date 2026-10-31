@@ -1,0 +1,15 @@
+.env
+.venv/
+.venv-kraken/
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+*.log
+frontend/tsconfig.tsbuildinfo
+# Local tooling and the design export (not part of the app)
+.claude/
+design_handoff/

@@ -1,0 +1,211 @@
+{
+ "sha256": "1a5f02b51615072b203d00985e263b83f5ceb23d0eb3348ecf3df0759bfda1fd",
+ "file": "old_scanned_lease.jpg",
+ "pages": [
+  {
+   "title": "عقد إيجار محل تجاري",
+   "parties": [
+    {
+     "role_ar": "المؤجر",
+     "name": "عبدالله بن سالم العمري",
+     "id_number": "هوية وطنية رقم ١٠٢٣٤٥٦٧٨٩"
+    },
+    {
+     "role_ar": "المستأجر",
+     "name": "مؤسسة الريان للأقمشة",
+     "id_number": "سجل تجاري رقم ٢٠٥٠٠١١٢٢٣"
+    }
+   ],
+   "key_fields": [],
+   "blocks": [
+    {
+     "id": "p1_b1",
+     "kind": "title",
+     "number_raw": null,
+     "heading": null,
+     "text": "عقد إيجار محل تجاري",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.74,
+     "bbox": [
+      0.1008,
+      0.0713,
+      0.8992,
+      0.1021
+     ]
+    },
+    {
+     "id": "p1_b2",
+     "kind": "preamble",
+     "number_raw": null,
+     "heading": null,
+     "text": "إنه في يوم الأحد الموافق ٠٥/٠٩/١٤٢٨هـ تم الاتفاق بين كل من: المؤجر عبدالله بن سالم العمري، هوية وطنية رقم ١٠٢٣٤٥٦٧٨٩، والمستأجر مؤسسة الريان للأقمشة، سجل تجاري رقم ٢٠٥٠٠١١٢٢٣.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.831,
+     "bbox": [
+      0.1008,
+      0.1211,
+      0.8992,
+      0.176
+     ]
+    },
+    {
+     "id": "p1_b3",
+     "kind": "clause",
+     "number_raw": "أولاً",
+     "heading": null,
+     "text": "أجر الطرف الأول للطرف الثاني المحل التجاري الكائن بحي البلد بمدينة جدة لاستعماله في بيع الأقمشة.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.882,
+     "bbox": [
+      0.1008,
+      0.195,
+      0.8992,
+      0.2499
+     ]
+    },
+    {
+     "id": "p1_b4",
+     "kind": "clause",
+     "number_raw": "ثانياً",
+     "heading": null,
+     "text": "مدة الإيجار سنة هجرية واحدة تبدأ من ٠١/١٠/١٤٢٨هـ وتنتهي في ٣٠/٠٩/١٤٢٩هـ.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.818,
+     "bbox": [
+      0.1008,
+      0.2689,
+      0.8992,
+      0.2975
+     ]
+    },
+    {
+     "id": "p1_b5",
+     "kind": "clause",
+     "number_raw": "ثالثاً",
+     "heading": null,
+     "text": "الأجرة السنوية ثلاثون ألف ريال تدفع على قسطين متساويين، الأول عند توقيع العقد والثاني بعد ستة أشهر.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.858,
+     "bbox": [
+      0.1008,
+      0.3165,
+      0.8992,
+      0.3714
+     ]
+    },
+    {
+     "id": "p1_b6",
+     "kind": "clause",
+     "number_raw": "رابعاً",
+     "heading": null,
+     "text": "لا يحق للمستأجر تأجير المحل من الباطن أو التنازل عنه للغير إلا بموافقة المؤجر الخطية.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.864,
+     "bbox": [
+      0.1008,
+      0.3904,
+      0.8992,
+      0.419
+     ]
+    },
+    {
+     "id": "p1_b7",
+     "kind": "clause",
+     "number_raw": "خامساً",
+     "heading": null,
+     "text": "إذا تأخر المستأجر عن سداد الأجرة مدة [؟] يحق للمؤجر فسخ العقد واسترداد المحل.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.58,
+     "bbox": [
+      0.1008,
+      0.438,
+      0.8992,
+      0.4666
+     ]
+    },
+    {
+     "id": "p1_b8",
+     "kind": "clause",
+     "number_raw": "سادساً",
+     "heading": null,
+     "text": "يخضع هذا العقد لأنظمة المملكة العربية السعودية، وأي خلاف ينشأ عنه يحال إلى المحكمة المختصة بجدة.",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.855,
+     "bbox": [
+      0.1008,
+      0.4856,
+      0.8992,
+      0.5405
+     ]
+    },
+    {
+     "id": "p1_b9",
+     "kind": "signature_area",
+     "number_raw": null,
+     "heading": null,
+     "text": "المؤجر: ....................          المستأجر: ....................",
+     "continues_from_previous_page": false,
+     "continues_to_next_page": false,
+     "confidence": 0.806,
+     "bbox": [
+      0.1008,
+      0.5595,
+      0.8992,
+      0.5881
+     ]
+    }
+   ],
+   "tables": [],
+   "dates": [
+    {
+     "raw": "٠٥/٠٩/١٤٢٨هـ",
+     "calendar": "hijri",
+     "block_id": "p1_b2"
+    },
+    {
+     "raw": "٠١/١٠/١٤٢٨هـ",
+     "calendar": "hijri",
+     "block_id": "p1_b4"
+    },
+    {
+     "raw": "٣٠/٠٩/١٤٢٩هـ",
+     "calendar": "hijri",
+     "block_id": "p1_b4"
+    }
+   ],
+   "stamps": [
+    {
+     "bbox": [
+      0.2126,
+      0.3905,
+      0.3874,
+      0.5141
+     ],
+     "kind": "stamp",
+     "text_if_any": "مكتب العقار النموذجي جدة",
+     "overlaps_text": true
+    },
+    {
+     "bbox": [
+      0.6,
+      0.5929,
+      0.7881,
+      0.6261
+     ],
+     "kind": "signature",
+     "text_if_any": null,
+     "overlaps_text": false
+    }
+   ],
+   "page_header_footer": []
+  }
+ ]
+}

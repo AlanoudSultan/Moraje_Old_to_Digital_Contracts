@@ -1,0 +1,6 @@
+# Separate environment for Kraken line segmentation (.venv-kraken): it pins older PyTorch,
+# safetensors and click than the app, so it is kept apart. Built by `make kraken`.
+kraken==7.1.1
+# Installed after Kraken, over its scipy~=1.15.3 pin: the 1.15.3 macOS wheel fails to load on
+# current macOS ("__thread_bss ... offset field is not zero"). 1.17.1 works and is API-compatible here.
+# scipy==1.17.1  (see Makefile)
