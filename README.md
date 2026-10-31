@@ -278,7 +278,7 @@ The three synthetic samples in `samples/` exercise this branch: one compliant, o
 - **Self-reported confidence**: the reader's legibility flag decides which fields are flagged, and Gemma showed it can be confidently wrong. A second, independent check (for example a second reader on flagged pages) would make flagging more reliable.
 - **Judges' names and signatures** are the hardest lines. All readers got them at most partly right.
 - **Margin notes**: dense notes produce many small outlines, and their numbers crowd the strip on the right.
-- **Free-tier limits**: these stopped 14 of 38 development runs. Production needs a paid tier.
+
 
 ## Credits
 
